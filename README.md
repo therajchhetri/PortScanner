@@ -8,7 +8,6 @@ Step2 : Install Socket & Termcolor libaries in your system<br>
 Step3 : Ready to scan ports ;)<br>
 
 <hr>
-<br>
 <h2>Demonstration Video</h2>
 <br>
 <hr>
